@@ -5,6 +5,7 @@ My Dice rolling program I originally made as a Swing framework exercise
 > - The amount of rolled dices is displayed as a Jlabels.
 > - The result of the rolled dice is also displayed as a Jlabels 
 > - The result is also displayed as a picture of the corresponding dice.
+
 ----------
 # How it works
 The program runs around the Controller, GUI and Model class.
