@@ -15,4 +15,5 @@ The view, where the updating of graphics happens
 #### Model
 Model of the dice. Keeps count of number of rolls and returns the value between 1-6 to the view
 #### Other stuff
-I've also added a custom object **NumericTextField** which is a subclass of the JTextField-class
+I've also added a custom object: **NumericTextField** which is a subclass of the JTextField-class.
+The JTextField wasn't good enough for me, since it doesn't handle numbers all that well, which is quite fundamental in this program.
