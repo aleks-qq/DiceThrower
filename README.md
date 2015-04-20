@@ -11,7 +11,12 @@ The program runs around the Controller, GUI and Model class.
 #### Controller
 Where the main is located. Controller is handling everything eg. the throwing of dice
 #### GUI
-The view, where the updating of graphics happens
+The view, where the updating of graphics happens. 
+> - Registering the Controller
+> - Initializing graphic components
+> - setting Jlabel results
+> - updating the dice picture.
+
 #### Model
 Model of the dice. Keeps count of number of rolls and returns the value between 1-6 to the view
 #### Other stuff
